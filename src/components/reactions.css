@@ -15,9 +15,10 @@
   color: var(--text-muted); /* A11Y-- */
 }
 
+/*Broken march 2023
 .reaction-3vwAF2 .reactionInner-YJjOtT {
   padding: 0 .375rem;
-}
+}*/
 
 /* Self reactions */
 .reaction-3vwAF2.reactionMe-1PwQAc .reactionCount-26U4As {
