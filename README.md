@@ -2,6 +2,10 @@
 
 Reverts Discord's 2021 rebrand (font, colors, reactions, mentions, loading screen, home icon, reply ping color, and more)
 
+## jh34ghu43gu's changes
+ * Removed a padding change to reacts that was causing snapping problems after a March 2023 update.
+ * Reverted the font changes and user popout changes (provided by the BD discord IIRC, its been awhile since I added that change).
+
 <details>
 <summary><strong>Screenshots</strong></summary>
 
