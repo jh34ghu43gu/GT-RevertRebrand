@@ -1,8 +1,8 @@
 /* Restyle the create server and discovery buttons to the old green */
-.circleIconButton-1VxDrg {
+.circleIconButton_d8df29 {
   color: var(--old-green);
 }
-.circleIconButton-1VxDrg.selected-2r1Hvo {
+.circleIconButton_d8df29.selected__5250e {
   color: white;
   background-color: var(--old-green);
 }
@@ -24,7 +24,7 @@
 }
 
 /* Revert ping mention button being link colored (used to be brand) */
-.colorLink-2apWfY.size14-3fJ-ot.mentionButton-3C5YMI {
+.colorLink-2apWfY.size14-3fJ-ot.mentionButton_a470c4 {
   color: var(--brand-experiment) !important;
 }
 
@@ -34,18 +34,18 @@
 }
 
 /* Revert the 'Add Friend' button to the old green*/
-.item-3mHhwr.item-3XjbnG.themed-2-lozF[style*="background-color: hsl(139"] {
+.item_e4ca95.item-3XjbnG.themed-2-lozF[style*="background-color: hsl(139"] {
     background-color: var(--old-green) !important;
 }
 
 /* Fixed "Add Friend" button to correct colors when selected */
-.item-3mHhwr.item-3XjbnG.themed-2-lozF[aria-selected*="true"][style*="color: hsl(139"] {
+.item_e4ca95.item-3XjbnG.themed-2-lozF[aria-selected*="true"][style*="color: hsl(139"] {
   color: var(--old-green) !important;
   background-color: #33524c !important;
 }
 
 /* Color picker default to blurple instead of new brand color */
-.colorPickerSwatch-RTUGRR.default-3ISV7m {
+.colorPickerSwatch__87597.default__8218c {
   background-color: var(--brand-experiment) !important;
 }
 
@@ -53,4 +53,3 @@
 .progressBar-1T6LYX {
     background-color: var(--brand-experiment) !important;
 }
-

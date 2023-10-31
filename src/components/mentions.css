@@ -1,5 +1,5 @@
 /* Revert mentions and channel links */
-#app-mount .wrapper-1ZcZW- {
+#app-mount .wrapper__2d9b1 {
   color: var(--brand-experiment-460);
   background: var(--brand-experiment-10a);
 
@@ -7,13 +7,13 @@
   padding: 0 1px;
 }
 
-#app-mount .wrapper-1ZcZW-:hover {
+#app-mount .wrapper__2d9b1:hover {
   background: var(--brand-experiment);
   color: var(--brand-experiment-100);
 }
 
 /* Hide semi-transparent background if mentioned in message */
-/*.mentioned-Tre-dv .mention {
+/*.mentioned__58017 .mention {
   background: transparent !important;
 }*/
 
