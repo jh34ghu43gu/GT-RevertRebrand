@@ -12,48 +12,48 @@
 /* If you do not want some things reverted, commend out imports like /* @import url("...") */
 
 /* [Recommended] Revert CSS variables: colors, fonts */
-@import url('https://jh34ghu43gu.github.io/GT-RevertRebrand/src/variables.css');
+@import url('https://palette-dev.github.io/GT-RevertRebrand/src/variables.css');
 
 /* Generated hardcoded color fixes */
-@import url('https://jh34ghu43gu.github.io/GT-RevertRebrand/src/hardcoded.css');
+@import url('https://palette-dev.github.io/GT-RevertRebrand/src/hardcoded.css');
 
 
 /* Individual components: */
 
 /* Revert mentions */
-@import url('https://jh34ghu43gu.github.io/GT-RevertRebrand/src/components/mentions.css');
+@import url('https://palette-dev.github.io/GT-RevertRebrand/src/components/mentions.css');
 
 /* Revert reactions */
-@import url('https://jh34ghu43gu.github.io/GT-RevertRebrand/src/components/reactions.css');
+@import url('https://palette-dev.github.io/GT-RevertRebrand/src/components/reactions.css');
 
 /* Revert profile pictures */
-@import url('https://jh34ghu43gu.github.io/GT-RevertRebrand/src/components/pfps.css');
+@import url('https://palette-dev.github.io/GT-RevertRebrand/src/components/pfps.css');
 
 /* Revert folders (default colors back to old blurple) */
-@import url('https://jh34ghu43gu.github.io/GT-RevertRebrand/src/components/folders.css');
+@import url('https://palette-dev.github.io/GT-RevertRebrand/src/components/folders.css');
 
 /* Revert windows wordmark */
-@import url('https://jh34ghu43gu.github.io/GT-RevertRebrand/src/components/wordmark.css');
+@import url('https://palette-dev.github.io/GT-RevertRebrand/src/components/wordmark.css');
 
 /* [Optional] Revert new user popouts */
-/* @import url('https://jh34ghu43gu.github.io/GT-RevertRebrand/src/components/userPopout.css'); */
+/* @import url('https://palette-dev.github.io/GT-RevertRebrand/src/components/userPopout.css'); */
 
 /* [Optional] Revert new role designs */
-/* @import url('https://jh34ghu43gu.github.io/GT-RevertRebrand/src/components/roles.css'); */
+/* @import url('https://palette-dev.github.io/GT-RevertRebrand/src/components/roles.css'); */
 
 /* General changes: */
 
 /* Revert some BD specific elements */
-@import url('https://jh34ghu43gu.github.io/GT-RevertRebrand/src/general/bd.css');
+@import url('https://palette-dev.github.io/GT-RevertRebrand/src/general/bd.css');
 
 /* Revert some inputs */
-@import url('https://jh34ghu43gu.github.io/GT-RevertRebrand/src/general/inputs.css');
+@import url('https://palette-dev.github.io/GT-RevertRebrand/src/general/inputs.css');
 
 /* Revert some SVGs (colors for smaller icons) */
-@import url('https://jh34ghu43gu.github.io/GT-RevertRebrand/src/general/svgs.css');
+@import url('https://palette-dev.github.io/GT-RevertRebrand/src/general/svgs.css');
 
 /* Revert some other minor things */
-@import url('https://jh34ghu43gu.github.io/GT-RevertRebrand/src/general/other.css');
+@import url('https://palette-dev.github.io/GT-RevertRebrand/src/general/other.css');
 
 /*New Stuff December 2022
 /* Revert Font Change */
