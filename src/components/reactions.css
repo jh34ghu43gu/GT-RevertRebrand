@@ -6,8 +6,8 @@
   border: none;
 }
 
-.mentioned-Tre-dv .reaction__4a43f,
-.mentioned-Tre-dv .reaction__4a43f:hover {
+.mentioned_fa6fd2 .reaction__4a43f,
+.mentioned_fa6fd2 .reaction__4a43f:hover {
     background-color:var(--background-modifier-accent);
 }
 
@@ -16,7 +16,7 @@
 }
 
 /*Broken march 2023
-.reaction__4a43f .reactionInner-YJjOtT {
+.reaction__4a43f .reactionInner_d6d30f {
   padding: 0 .375rem;
 }*/
 
@@ -25,8 +25,8 @@
   color: var(--brand-experiment); /* A11Y-- */
 }
 
-.mentioned-Tre-dv .reaction__4a43f.reactionMe__0fffc,
-.mentioned-Tre-dv .reactionMe__0fffc.reaction__4a43f:hover,
+.mentioned_fa6fd2 .reaction__4a43f.reactionMe__0fffc,
+.mentioned_fa6fd2 .reactionMe__0fffc.reaction__4a43f:hover,
 .reaction__4a43f.reactionMe__0fffc {
   background-color: var(--brand-experiment-30a);
 }

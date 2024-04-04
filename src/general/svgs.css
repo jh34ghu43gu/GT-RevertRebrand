@@ -4,12 +4,12 @@
 }
 
 /* Fix the call icons in chat */
-.icon-JRJzJz.iconSize-Ai8Wtu[style='background-image: url("/assets/7f75ab26bc5deb393cd8db44d9fe14e7.svg");'] {
+.icon__467d5.iconSize__89aca[style='background-image: url("/assets/7f75ab26bc5deb393cd8db44d9fe14e7.svg");'] {
   background-image: url("https://Goose-Nest.github.io/GT-RevertRebrand/assets/call_icon.svg") !important;
 }
 
 /* Server join icon to old green (arrow left to join system message) */
-.icon-JRJzJz.iconSize-Ai8Wtu[style='background-image: url("/assets/d1382af8d9e755bc44811b1fd92990a8.svg");'] {
+.icon__467d5.iconSize__89aca[style='background-image: url("/assets/d1382af8d9e755bc44811b1fd92990a8.svg");'] {
   background-image: url("https://Goose-Nest.github.io/GT-RevertRebrand/assets/server_join_icon.svg") !important;
 }
 
@@ -20,7 +20,7 @@
 
 /* Permission checkmarks in authorized apps to the old green */
 /* The images in these are specified by class, so it's impossible to get more specific of a match than this */
-.permissionCheckmark-ji-OoY {
+.permissionCheckmark__6860a {
   background: url("https://Goose-Nest.github.io/GT-RevertRebrand/assets/authorized_apps_checkmark_icon.svg") no-repeat;
 }
 
