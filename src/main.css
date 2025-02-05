@@ -77,48 +77,48 @@ body {
   background: transparent !important;
 } */
 /* Revert reactions */
-.reaction_ec6b19 {
+.reaction__23977 {
   border-radius: 0.25rem;
   background: var(--background-modifier-selected);
   border: none;
 }
 
-.mentioned_fa6fd2 .reaction_ec6b19,
-.mentioned_fa6fd2 .reaction_ec6b19:hover {
+.mentioned_fa6fd2 .reaction__23977,
+.mentioned_fa6fd2 .reaction__23977:hover {
   background-color: var(--background-modifier-accent);
 }
 
-.reaction_ec6b19 .reactionCount_ec6b19 {
+.reaction__23977 .reactionCount__23977 {
   color: var(--text-muted);
   /* A11Y-- */
 }
 
-.reaction_ec6b19 .reactionInner_bd636d {
+.reaction__23977 .reactionInner_bd636d {
   padding: 0 0.375rem;
 }
 
 /* Self reactions */
-.reaction_ec6b19.reactionMe_ec6b19 .reactionCount_ec6b19 {
+.reaction__23977.reactionMe__23977 .reactionCount__23977 {
   color: var(--brand-experiment);
   /* A11Y-- */
 }
 
-.mentioned_fa6fd2 .reaction_ec6b19.reactionMe_ec6b19,
-.mentioned_fa6fd2 .reactionMe_ec6b19.reaction_ec6b19:hover,
-.reaction_ec6b19.reactionMe_ec6b19 {
+.mentioned_fa6fd2 .reaction__23977.reactionMe__23977,
+.mentioned_fa6fd2 .reactionMe__23977.reaction__23977:hover,
+.reaction__23977.reactionMe__23977 {
   background-color: var(--brand-experiment-30a);
 }
 
 /* Reaction hover */
-.reaction_ec6b19:hover .reactionCount_ec6b19 {
+.reaction__23977:hover .reactionCount__23977 {
   color: var(--interactive-active) !important;
 }
 
-.reaction_ec6b19:hover {
+.reaction__23977:hover {
   background-color: var(--background-modifier-selected);
 }
 
-.reaction_ec6b19.reactionMe_ec6b19:hover {
+.reaction__23977.reactionMe__23977:hover {
   background-color: var(--brand-experiment-40a);
 }
 
